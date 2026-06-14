@@ -22,7 +22,9 @@ Build your own version — don't just copy.
 — Praveen Bhagour
 
 ---
-[![Live Demo](https://my-portfolio-website-ten-theta.vercel.app/)]([https://my-portfolio-website-ten-theta.vercel.app/](https://my-portfolio-website-ten-theta.vercel.app/))
+## Live Demo
+
+🌐 **Portfolio:** https://my-portfolio-website-ten-theta.vercel.app
 
 ## 🛠️ Instructions
 
