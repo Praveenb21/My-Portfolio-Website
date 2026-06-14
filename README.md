@@ -22,6 +22,7 @@ Build your own version — don't just copy.
 — Praveen Bhagour
 
 ---
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)]([https://praveen-portfolio.com](https://my-portfolio-website-ten-theta.vercel.app/))
 
 ## 🛠️ Instructions
 
